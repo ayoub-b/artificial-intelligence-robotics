@@ -21,7 +21,6 @@
 from math import *
 import random
 
-
 # ------------------------------------------------
 # 
 # this is the robot class
